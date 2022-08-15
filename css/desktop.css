@@ -28,5 +28,14 @@ span {
 }
 
 footer p {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
+}
+
+footer #acknowledgment {
+    font-size: 1rem;
+    margin: 0;
+}
+
+#acknowledgment a {
+    font-size: 1rem;
 }
