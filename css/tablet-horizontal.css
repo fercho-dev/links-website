@@ -1,0 +1,32 @@
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.8rem;
+}
+
+article {
+    width: 46rem;
+}
+
+a {
+    font-size: 2rem;
+}
+
+a:hover {
+    font-size: 2.2rem;
+}
+
+a img {
+    width: 3.7rem;
+    height: 3.7rem;
+}
+
+span {
+    margin-left: 1.2rem;
+}
+
+footer p {
+    font-size: 1.2rem;
+}
